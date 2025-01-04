@@ -12,7 +12,7 @@ const Resume = () => {
         <div class="relative z-10 flex flex-col justify-center items-center h-full text-center">
           <h1
             class="mx-auto max-w-3xl font-display text-3xl font-bold leading-tight mb-4 text-white-300 sm:text-5xl">
-           Download My Resume 
+           Download My
 
             <span class="relative whitespace-nowrap text-pink-700 dark:text-pink-500">
               <svg aria-hidden="true" viewBox="0 0 418 42" class="absolute top-2/3 left-0 h-[0.58em] w-full fill-pink-700 dark:fill-pink-500/60" preserveAspectRatio="none">
