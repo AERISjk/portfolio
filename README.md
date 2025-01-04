@@ -25,7 +25,8 @@ To get started with this project, follow these steps:
     npm run dev
  
 
-## Getting Started
+## Project structure
+``` sh
  .gitignore
 eslint.config.js
 index.html
