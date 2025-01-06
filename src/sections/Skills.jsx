@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaDatabase, FaHtml5, FaNodeJs, FaReact, } from "react-icons/fa"; // Import required icons
-import skillData from "./data";
+import skillData from "./Data/data";
 
 const Skills = () => {
     const [selectedSkill, setSelectedSkill] = useState("frontend");

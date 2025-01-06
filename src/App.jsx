@@ -6,6 +6,7 @@ import WorkExperience from './sections/WorkExperience';
 import Layout from './pages/Layout';
 import Skills from './sections/Skills';
 import Resume from './sections/Resume';
+import Contact from './sections/Contact';
 function App() {
   const ref = useRef();
 
@@ -23,6 +24,7 @@ function App() {
                 <Route path="/Skills" element={<Skills/>} />
                 <Route path="/WorkHistory" element={<WorkExperience/>} />
                 <Route path="/Resume" element={<Resume/>} />
+                <Route path="/Contact" element={<Contact/>} />
             </Routes>
             </Layout>
         </Router>

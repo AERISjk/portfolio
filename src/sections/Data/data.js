@@ -30,6 +30,7 @@ const skillData = {
         { name: "GitHub", proficiency: 80 },
         { name: "GitLab", proficiency: 80 },
         { name: "Postman", proficiency: 65 },
+        { name : "Unity " , proficiency: 60},
         ],
         icon: "FaReact", 
       },

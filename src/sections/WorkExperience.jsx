@@ -24,7 +24,7 @@ const WorkExperience = () => {
 
                             <div>
                                 <h4 class=" font-bold lg:text-xl leading-tight">Capstone II project ( Explorify)</h4>
-                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 rounded-md text-sm">
+                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 py-1 rounded-full text-sm">
                                     <p>June 2024 ( School project )</p>
                                 </div>
                                 <div class="my-4">
@@ -66,7 +66,7 @@ const WorkExperience = () => {
                         <div className="relative p-4 my-6 text-white bg-[#1111] outline outline-2 outline-pink-500 hover:bg-pink-600 transition ease-in-out delay-150 rounded-xl col-start-6 col-end-10 mr-auto">
                             <div>
                                 <h4 class=" font-bold lg:text-xl leading-tight">Capstone II project ( Explorify)</h4>
-                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 rounded-md text-sm">
+                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 py-1 rounded-full text-sm">
                                     <p>Figma Design </p>
                                 </div>
                                 <div class="my-4">
@@ -94,7 +94,7 @@ const WorkExperience = () => {
                         <div className="relative p-4 my-6 text-white bg-[#1111] outline outline-2 outline-pink-500 hover:bg-pink-600 transition ease-in-out delay-150 rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
                             <div>
                                 <h4 class=" font-bold lg:text-xl leading-tight">Internship I project </h4>
-                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 rounded-md text-sm">
+                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 py-1 rounded-full text-sm">
                                     <p>January 2024 ( company’s project)</p>
                                 </div>
                                 <div class="my-4">
@@ -138,7 +138,7 @@ const WorkExperience = () => {
                         <div className="relative p-4 my-6 text-white bg-[#1111] outline outline-2 outline-pink-500 hover:bg-pink-600 transition ease-in-out delay-150 rounded-xl col-start-6 col-end-10 mr-auto">
                             <div>
                                 <h4 class=" font-bold lg:text-xl leading-tight">Capstone I project ( E-booK application)</h4>
-                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 rounded-md text-sm">
+                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 py-1 rounded-full text-sm">
                                     <p>April 2023 (School project)</p>
                                 </div>
                                 <div class="my-4">
@@ -169,7 +169,7 @@ const WorkExperience = () => {
                         <div className="relative p-4 my-6 text-white bg-[#1111] outline outline-2 outline-pink-500 hover:bg-pink-600 transition ease-in-out delay-150 rounded-xl col-start-1 col-end-5 mr-auto md:mr-0 md:ml-auto">
                             <div>
                                 <h4 class=" font-bold lg:text-xl leading-tight">Web Application project (school’s project)</h4>
-                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 rounded-md text-sm">
+                                <div class=" text-black  my-4 bg-pink-200 w-fit px-3 py-1 rounded-full text-sm">
                                     <p>Fabruary 2023 </p>
                                 </div>
                                 <div class="my-4">

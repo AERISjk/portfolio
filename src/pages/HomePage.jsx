@@ -1,34 +1,29 @@
 import React from 'react'
-import NavBar from '../sections/Navbar'
-import Hero from '../sections/Hero'
 import AboutMe from '../sections/AboutMe'
+import AdditionalWork from '../sections/AdditionalWork'
+import Contact from '../sections/Contact'
+import Hero from '../sections/Hero'
 import Skills from '../sections/Skills'
 import WorkExperience from '../sections/WorkExperience'
-import Footer from '../sections/Footer'
 
 
 
 const HomePage = () => {
   return (
     <>
-  
-   
-   
-   
-    {/* <Resume/> */}
 
- 
-    <Hero/>
- 
-  
-    <AboutMe/>
+      <Hero />
 
-  
-    <Skills/>
- 
-    <WorkExperience/>
-  
+      <AboutMe />
 
+      <Skills />
+
+      <WorkExperience />
+
+      {/* <AdditionalWork/> */}
+      <AdditionalWork />
+
+      <Contact />
 
 
 
