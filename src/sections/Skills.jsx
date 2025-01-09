@@ -50,7 +50,7 @@ const Skills = () => {
                                     { className: "h-6 w-6 text-pink-500" }
                                 )}
                             </div>
-                            <h2 className=" text-lg font-semibold text-center">
+                            <h2 className=" text-lg font-semibold text-center pl-4 pr-4">
                                 {skillData[key].title}
                             </h2>
                         </div>
@@ -59,7 +59,7 @@ const Skills = () => {
 
                 {/* Right Section: Dynamic Skill List */}
                 <div className="p-6 sm:pb-18  outline outline-2 outline-pink-500 text-white rounded-lg shadow-lg">
-                    <h3 className="text-xl font-semibold mb-4 ">
+                    <h3 className="text-xl font-semibold mb-4">
                         {skillData[selectedSkill].title}
                     </h3>
                     <p className="mb-4 z">{skillData[selectedSkill].description}</p>

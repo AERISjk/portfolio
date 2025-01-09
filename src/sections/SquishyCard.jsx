@@ -5,7 +5,7 @@ import workData from "./Data/WorkData";
 
 const SquishyCard = () => {
   return (
-    <section className="bg-[#111111] px-4 py-12">
+    <section className="bg-[#111111] px-4 py-12 ">
       <div className="mx-auto flex flex-wrap justify-center gap-8">
         {workData.map((project, index) => (
           <Card key={index} project={project} />

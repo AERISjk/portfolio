@@ -93,7 +93,7 @@ const NavBar = () => {
             <Link to ="/Skills" className="block text-gray-300 hover:text-pink-400">Skills</Link>
             <Link to ="/WorkHistory" className="block text-gray-300 hover:text-pink-400">Work History</Link>
             <Link to ="/Resume" className="block text-gray-300 hover:text-pink-400">Resume</Link>
-            <Link to ="/Contact" className="text-gray-300 hover:text-pink-400">Contact</Link>
+            <Link to ="/Contact" className="block text-gray-300 hover:text-pink-400">Contact</Link>
             </nav>
           </div>
         </div>
