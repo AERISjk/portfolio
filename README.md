@@ -24,41 +24,6 @@ To get started with this project, follow these steps:
     ```sh
     npm run dev
  
-
-# ## Project structure
-#   ``` sh
-#  .gitignore
-# eslint.config.js
-# index.html
-# package.json
-# postcss.config.js
-# public/
-# README.md
-# src/
-#   App.css
-#   App.jsx
-#   assets/
-#     icons/
-#       index.js
-#     image/
-#   index.css
-#   main.jsx
-#   pages/
-#     HomePage.jsx
-#     Layout.jsx
-#   sections/
-#     AboutMe.jsx
-#     data.js
-#     Footer.jsx
-#     Hero.jsx
-#     Navbar.jsx
-#     Resume.jsx
-#     Skills.jsx
-#     WorkExperience.jsx
-# tailwind.config.js
-# vite.config.js
-
-
 ## Deployment  
 
 This project is deployed on Netlify . 
