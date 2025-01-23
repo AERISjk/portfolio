@@ -14,7 +14,7 @@ const Contact = () => {
 
             <div className="flex flex-wrap justify-center items-center">
                 {/* Form Section */}
-                <div className="w-full md:w-2/5 px-4 mb-8 md:mb-0">
+                <div className="w-full md:w-1/2 px-4 mb-8 md:mb-0">
                     <form className="space-y-6" action="https://formspree.io/f/xgvvpnkp" method="POST">
                         <div>
                             <input

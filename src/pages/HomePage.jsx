@@ -5,6 +5,7 @@ import Contact from '../sections/Contact'
 import Hero from '../sections/Hero'
 import Skills from '../sections/Skills'
 import WorkExperience from '../sections/WorkExperience'
+import ScrollLogo from '../sections/ScrollLogo'
 
 
 
@@ -13,7 +14,7 @@ const HomePage = () => {
     <>
 
       <Hero />
-
+      <ScrollLogo/>
       <AboutMe />
 
       <Skills />
